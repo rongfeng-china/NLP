@@ -1,7 +1,7 @@
 # NLP
 
-Credits:
-https://github.com/Conchylicultor/DeepQA 
+Credits:--
+https://github.com/Conchylicultor/DeepQA --
 https://github.com/mike-n-7/ADEM 
 
 #Linux 16.04, GPU, python 2.7, tensorflow 
